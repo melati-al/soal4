@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama :   MELATI AYUNING LESTARI
+NIM :  155150207111039
+Kelas : IF - E
